@@ -1,0 +1,25 @@
+# Local .terraform directories
+**/.terraform/*
+**/.terraform.*
+**.terraform**
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+
+#pycharm file
+.idea/
+
+# Ignore CLI configuration files
+.terraformrc
+terraform.rc
+
+# Terragrunt files
+# Terragrunt
+*.terragrunt-cache**
+*terragrunt-debug.tfvars.json**
+.data/
+
+*.json
+*.bkp
