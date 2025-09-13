@@ -1,3 +1,6 @@
+## proyecto ETL con terraform y terragrunt (Batch)
+![diagram.drawio.png](img/diagram.drawio.png)
+
 ## Configuration policy Bucket S3 and DynamoDB - State file and Lock
 ```bash
 https://terragrunt.gruntwork.io/docs/features/aws-authentication/
